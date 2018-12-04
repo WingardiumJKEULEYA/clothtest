@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#e5e5e5',
     alignItems: 'center',
     justifyContent: 'center',
+    height: "100%"
   },
   categories: {
     fontSize: 40,
