@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "jean",
+      "brand": "Gap",
+      "assembly": [
+        {
+          "percent": 100,
+          "material": "coton",
+          "recycled": false,
+        }
+      ],
+      "global-mark": "B",
+      "environment-criteria": [
+        {
+          "criteria": "Impact Carbone",
+          "color": "red",
+          "concise-comment": "Fortes émissions",
+        },
+        {
+          "criteria": "Pollution de l'eau",
+          "color": "red",
+          "concise-comment": "Forte pollution",
+        }
+      ],
+      "social-criteria": [
+        {
+          "criteria": "Conditions salariales",
+          "color": "green",
+          "concise-comment": "Engagements forts",
+        },
+        {
+          "criteria": "Transparence de la marque",
+          "color": "green",
+          "concise-comment": "Bon partage d'informations",
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "jean",
+      "brand": "Patagonia",
+      "assembly": [
+        {
+          "percent": 100,
+          "material": "coton",
+          "recycled": true,
+        }
+      ],
+      "global-mark": "A",
+      "environment-criteria": [
+        {
+          "criteria": "Impact Carbone",
+          "color": "green",
+          "concise-comment": "Faibles émissions",
+        },
+        {
+          "criteria": "Pollution de l'eau",
+          "color": "green",
+          "concise-comment": "Peu de pollution",
+        }
+      ],
+      "social-criteria": [
+        {
+          "criteria": "Conditions salariales",
+          "color": "green",
+          "concise-comment": "Engagements forts",
+        },
+        {
+          "criteria": "Transparence de la marque",
+          "color": "green",
+          "concise-comment": "Bon partage d'informations",
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "jean",
+      "brand": "Levis",
+      "assembly": [
+        {
+          "percent": 80,
+          "material": "coton",
+          "recycled": true,
+        },
+        {
+          "percent": 20,
+          "material": "elasthanne",
+          "recycled": true,
+        }
+      ],
+      "global-mark": "B",
+      "environment-criteria": [
+        {
+          "criteria": "Impact Carbone",
+          "color": "red",
+          "concise-comment": "Fortes émissions",
+        },
+        {
+          "criteria": "Pollution de l'eau",
+          "color": "orange",
+          "concise-comment": "Pollution moyenne",
+        }
+      ],
+      "social-criteria": [
+        {
+          "criteria": "Conditions salariales",
+          "color": "green",
+          "concise-comment": "Engagements forts",
+        },
+        {
+          "criteria": "Transparence de la marque",
+          "color": "orange",
+          "concise-comment": "Faible partage d'informations",
+        }
+      ]
+    },
+  ]
+}
