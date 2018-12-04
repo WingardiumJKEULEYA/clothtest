@@ -19,7 +19,6 @@ export default class Presentation extends React.Component {
 const styles = StyleSheet.create({
   presentation_style: {
     resizeMode: 'contain',
-    paddingTop: 60,
     marginBottom: 20,
     alignItems: 'center',
     justifyContent: 'center',
